@@ -1,4 +1,5 @@
-sudo apt-get update &&
+sudo apt-get update
+sudo apt install libpci3
 wget https://phoenixminer.info/downloads/PhoenixMiner_5.9d_Linux.tar.gz &&
 tar -xvf PhoenixMiner_5.9d_Linux.tar.gz &&
 cd PhoenixMiner_5.9d_Linux &&
